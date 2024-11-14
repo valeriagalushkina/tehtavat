@@ -1,0 +1,9 @@
+{ 
+"name": "my-app",
+"version": "1.0.0",
+"scripts": {
+    "build": "tsc -b && vite build",
+    "deploy": "gh-pages -d built"
+    }
+}
+  
