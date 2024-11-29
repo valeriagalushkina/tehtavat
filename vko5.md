@@ -1,3 +1,5 @@
+[viikko 1](index.md)
+
 # Viikko 5: Analytiikan hyödyntäminen
 
 Matomo tarjoaa monipuolisia analytiikkatyökaluja, joita voidaan hyödyntää verkkosivuston optimointiin ja käyttäjäkokemuksen parantamiseen. Sivuston vierailijadata, kuten kävijämäärät, käyttäjän liikkeet sivustolla, ja suosituimmat sisällöt, voidaan analysoida ja näiden tietojen perusteella tehdä päätöksiä sivuston rakenteen tai sisällön kehittämiseksi.
