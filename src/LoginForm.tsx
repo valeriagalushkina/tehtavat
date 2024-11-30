@@ -16,8 +16,9 @@ function LoginForm() {
     try {
       const userCredential = await signInWithEmailAndPassword(auth, email, password);
       console.log("Kirjautuminen onnistui:", userCredential.user);
+      setError(null); // Tyhjennetään mahdolliset vanhat virheet
     } catch (error: any) {
-      setError(error.message);
+      setError("Kirjautuminen epäonnistui. Tarkista sähköposti ja salasana.");
       console.error("Kirjautumisvirhe:", error);
     }
   };
