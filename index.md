@@ -12,5 +12,5 @@ Tältä sivulta löydät tehtäväpalautukset:
 - [Viikko 3](vko3/index.html)
 - [Viikko 4](dist/assets//index.html)
 - [Viikko 5](vko5.md)
-- [Viikko 6]
+- [Viikko 6](vko6/index.html)
 - [Harjoitustyö]
