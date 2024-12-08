@@ -1,8 +1,9 @@
 import { useState, useEffect, useCallback } from 'react';
 import LoginForm from './LoginForm';
-import reactLogo from 'dist/assets/react-CHdo91hT.svg';
-import viteLogo from 'dist/assets/vite.svg';
+import reactLogo from './react-CHdo91hT.svg';
+import viteLogo from 'vite.svg';
 import './App.css';
+import React from 'react';
 
 function App() {
   // Asetetaan eväste
@@ -67,5 +68,4 @@ function App() {
     </>
   );
 }
-
 export default App;
